@@ -1,2 +1,3 @@
-# example_dotnet_jwt
-Several Example using Json Web Token
+# Json Web Token Example 
+
+Several Examples using Json Web Token
